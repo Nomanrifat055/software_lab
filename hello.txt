@@ -1,7 +1,4 @@
 hello world
 hello cse
-<<<<<<< HEAD
-hello everyone
-=======
 hello all
->>>>>>> 460c96872aa38087037b7b2acddc96839f97b491
+
